@@ -125,12 +125,18 @@ namespace Projeto_Passagens_aereas
                if (senha == "123456"){
                    return true;
                }else{
-                   Console.WriteLine("Senha inválida, digite de novo!");
                    bloqueio++;
-                   Console.WriteLine(bloqueio);
                    if(bloqueio == 3){
-                        Console.WriteLine("Número máximo de tentativas excedido");
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("Senha inválida, número máximo de tentativas excedido!");
+                        Console.ResetColor();
+                        Console.WriteLine("-----------------------------------------------------");
                         Environment.Exit(-1);
+                   } else{
+                        Console.ForegroundColor = ConsoleColor.Red;
+                       Console.WriteLine("Senha inválida, digite de novo!");
+                        Console.ResetColor();
+                       Console.WriteLine("-------------------------------");
                    }
                    return false;
                }
