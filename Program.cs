@@ -9,6 +9,7 @@ namespace Projeto_Passagens_aereas
             bool senhaValida;
             int escolha;
             int contador = 0;
+            int bloqueio = 0;
             string resposta;
             string[] nomes = new string[5];
             string[] destino = new string [5];
@@ -125,6 +126,12 @@ namespace Projeto_Passagens_aereas
                    return true;
                }else{
                    Console.WriteLine("Senha inválida, digite de novo!");
+                   bloqueio++;
+                   Console.WriteLine(bloqueio);
+                   if(bloqueio == 3){
+                        Console.WriteLine("Número máximo de tentativas excedido");
+                        Environment.Exit(-1);
+                   }
                    return false;
                }
 

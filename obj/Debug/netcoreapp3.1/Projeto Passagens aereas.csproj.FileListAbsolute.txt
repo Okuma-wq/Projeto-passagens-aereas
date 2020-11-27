@@ -11,3 +11,16 @@ C:\Users\pedro\Desktop\Projetos\Projeto Passagens aereas\obj\Debug\netcoreapp3.1
 C:\Users\pedro\Desktop\Projetos\Projeto Passagens aereas\obj\Debug\netcoreapp3.1\Projeto Passagens aereas.dll
 C:\Users\pedro\Desktop\Projetos\Projeto Passagens aereas\obj\Debug\netcoreapp3.1\Projeto Passagens aereas.pdb
 C:\Users\pedro\Desktop\Projetos\Projeto Passagens aereas\obj\Debug\netcoreapp3.1\Projeto Passagens aereas.genruntimeconfig.cache
+C:\Users\dev\Desktop\Projeto-passagens-aereas\bin\Debug\netcoreapp3.1\Projeto Passagens aereas.exe
+C:\Users\dev\Desktop\Projeto-passagens-aereas\bin\Debug\netcoreapp3.1\Projeto Passagens aereas.deps.json
+C:\Users\dev\Desktop\Projeto-passagens-aereas\bin\Debug\netcoreapp3.1\Projeto Passagens aereas.runtimeconfig.json
+C:\Users\dev\Desktop\Projeto-passagens-aereas\bin\Debug\netcoreapp3.1\Projeto Passagens aereas.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Projeto-passagens-aereas\bin\Debug\netcoreapp3.1\Projeto Passagens aereas.dll
+C:\Users\dev\Desktop\Projeto-passagens-aereas\bin\Debug\netcoreapp3.1\Projeto Passagens aereas.pdb
+C:\Users\dev\Desktop\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto Passagens aereas.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto Passagens aereas.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto Passagens aereas.AssemblyInfo.cs
+C:\Users\dev\Desktop\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto Passagens aereas.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto Passagens aereas.dll
+C:\Users\dev\Desktop\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto Passagens aereas.pdb
+C:\Users\dev\Desktop\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto Passagens aereas.genruntimeconfig.cache
